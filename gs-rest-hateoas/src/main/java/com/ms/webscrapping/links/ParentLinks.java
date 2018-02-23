@@ -22,6 +22,16 @@ public class ParentLinks implements Links {
 	public void setLinks(List<String> links) {
 		this.links = links;
 	}
+	
+	
+
+	public String getUrl() {
+		return url;
+	}
+
+	public List<String> getLinks() {
+		return links;
+	}
 
 	@Override
 	public String toString() {
