@@ -1,4 +1,4 @@
-package hello;
+package com.ms.webscrapping;
 
 import org.springframework.hateoas.ResourceSupport;
 

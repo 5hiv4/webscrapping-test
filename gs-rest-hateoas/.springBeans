@@ -7,7 +7,7 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>java:com.microspark.webscrapping.Application</config>
+		<config>java:com.ms.webscrapping.Application</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
